@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://layout-IT.github.io/MovieAddict",
+  "homepage": "https://layout-it.github.io/Movie_Addict",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
