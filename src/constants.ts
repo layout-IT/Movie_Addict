@@ -6,11 +6,7 @@ export const MOVIES = [
   { id: 5, title: 'Forrest Gump', genre: 'Drama' },
   { id: 6, title: 'Inception', genre: 'Sci-Fi' },
   { id: 7, title: 'Fight Club', genre: 'Drama' },
-  {
-    id: 8,
-    title: 'The Lord of the Rings: The Return of the King',
-    genre: 'Fantasy',
-  },
+  {id: 8,title: 'The Lord of the Rings: The Return of the King',genre: 'Fantasy'},
   { id: 9, title: 'The Matrix', genre: 'Sci-Fi' },
   { id: 10, title: 'Goodfellas', genre: 'Crime' },
   { id: 11, title: 'The Silence of the Lambs', genre: 'Thriller' },
